@@ -1,4 +1,4 @@
-ID,Type,Title,Title ID,Offer ID,Content ID,Last Updated
+id,type,title,titleid,offerid,contentid,lastupdated
 66acd000-77fe-1000-9115-d802444d07fe,1,#Trending,0x444d07fe,,,2014-03-24T18:15:01.780Z
 66acd000-77fe-1000-9115-d80258570b10,1,#Trending,0x58570b10,,,2015-06-09T09:00:01.180Z
 66acd000-77fe-1000-9115-d802354e0843,1,'Ghost in the Shell' Downloads,0x354e0843,,,2017-03-17T19:14:55.100Z
